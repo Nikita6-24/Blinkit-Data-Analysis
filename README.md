@@ -42,6 +42,8 @@ Here are some of the key business questions explored in this dashboard, along wi
 
 - `Blinkit Project.pbix` – Full interactive dashboard file
 
+![Screenshot 2025-05-09 120731](https://github.com/user-attachments/assets/0fc67b9e-d910-4299-b799-22a3559103b2)
+
 ---
 
 🚀 **Usage:**  
