@@ -2,6 +2,15 @@
 
 This project presents a comprehensive Power BI dashboard built to analyze Blinkit's sales, customer behavior, and operational performance. The dashboard is interactive, enabling stakeholders to make data-driven decisions quickly.
 
+## 🎯 Project Objective
+
+The objective of this project is to build a dynamic and insightful business intelligence dashboard for Blinkit that:
+
+- Identifies high-performing product categories and stores  
+- Tracks revenue trends and customer purchase behavior  
+- Monitors key operational metrics like delivery times and stock availability  
+- Supports data-driven decision-making across sales, marketing, and logistics teams
+
 ## 🔍 Key Highlights
 
 - **Sales Analysis**: Analyze product and category performance
